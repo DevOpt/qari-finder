@@ -1,0 +1,36 @@
+{
+    "reciters": [
+        {
+            "name": "Abdulbasit",
+            "audioFile": "data/wav/Abdulbasit.wav"
+        },
+        {
+            "name": "Alafasy",
+            "audioFile": "data/wav/Alafasy.wav"
+        },
+        {
+            "name": "AlAjmi",
+            "audioFile": "data/wav/AlAjmi.wav"
+        },
+        {
+            "name": "Alzain",
+            "audioFile": "data/wav/Alzain.wav"
+        },
+        {
+            "name": "SaadGhamdi",
+            "audioFile": "data/wav/SaadGhamdi.wav"
+        },
+        {
+            "name": "Shatri",
+            "audioFile": "data/wav/Shatri.wav"
+        },
+        {
+            "name": "Shuraim",
+            "audioFile": "data/wav/Shuraim.wav"
+        },
+        {
+            "name": "Sudais",
+            "audioFile": "data/wav/Sudais.wav"
+        }
+    ]
+}
